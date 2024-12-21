@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Asp.net practice\\Social_media_feed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|h:\\asp.net practice\\social_media_feed\\clientapp\\src\\components\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|solutionrelative:clientapp\\src\\components\\register.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|h:\\asp.net practice\\social_media_feed\\clientapp\\src\\components\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|solutionrelative:clientapp\\src\\components\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|h:\\asp.net practice\\social_media_feed\\clientapp\\src\\components\\createpost.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|solutionrelative:clientapp\\src\\components\\createpost.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|h:\\asp.net practice\\social_media_feed\\clientapp\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|solutionrelative:clientapp\\src\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|h:\\asp.net practice\\social_media_feed\\clientapp\\src\\api\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|solutionrelative:clientapp\\src\\api\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|h:\\asp.net practice\\social_media_feed\\clientapp\\src\\app.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|solutionrelative:clientapp\\src\\app.test.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|h:\\asp.net practice\\social_media_feed\\clientapp\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|solutionrelative:clientapp\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|h:\\asp.net practice\\social_media_feed\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37DE3F30-562E-45D4-AAFB-9BF8A90D553E}|Social_media_feed.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.js",
+              "DocumentMoniker": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\Components\\Login.js",
+              "RelativeDocumentMoniker": "clientapp\\src\\Components\\Login.js",
+              "ToolTip": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\Components\\Login.js",
+              "RelativeToolTip": "clientapp\\src\\Components\\Login.js",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAADIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-01T15:39:00.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.js",
+              "DocumentMoniker": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\Components\\Register.js",
+              "RelativeDocumentMoniker": "clientapp\\src\\Components\\Register.js",
+              "ToolTip": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\Components\\Register.js",
+              "RelativeToolTip": "clientapp\\src\\Components\\Register.js",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-01T14:21:40.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePost.js",
+              "DocumentMoniker": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\Components\\CreatePost.js",
+              "RelativeDocumentMoniker": "clientapp\\src\\Components\\CreatePost.js",
+              "ToolTip": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\Components\\CreatePost.js",
+              "RelativeToolTip": "clientapp\\src\\Components\\CreatePost.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-16T20:19:33.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.js",
+              "DocumentMoniker": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\index.js",
+              "RelativeDocumentMoniker": "clientapp\\src\\index.js",
+              "ToolTip": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\index.js",
+              "RelativeToolTip": "clientapp\\src\\index.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-17T17:44:47.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.test.js",
+              "DocumentMoniker": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\App.test.js",
+              "RelativeDocumentMoniker": "clientapp\\src\\App.test.js",
+              "ToolTip": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\App.test.js",
+              "RelativeToolTip": "clientapp\\src\\App.test.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-17T17:44:37.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.js",
+              "DocumentMoniker": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\App.js",
+              "RelativeDocumentMoniker": "clientapp\\src\\App.js",
+              "ToolTip": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\App.js",
+              "RelativeToolTip": "clientapp\\src\\App.js",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-16T20:16:38.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "api.js",
+              "DocumentMoniker": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\api\\api.js",
+              "RelativeDocumentMoniker": "clientapp\\src\\api\\api.js",
+              "ToolTip": "H:\\Asp.net practice\\Social_media_feed\\clientapp\\src\\api\\api.js",
+              "RelativeToolTip": "clientapp\\src\\api\\api.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-12T20:54:58.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "H:\\Asp.net practice\\Social_media_feed\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "H:\\Asp.net practice\\Social_media_feed\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T18:02:41.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
